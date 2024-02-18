@@ -1,0 +1,1 @@
+Refining my react native knowledge and cleaning up previous issues.
